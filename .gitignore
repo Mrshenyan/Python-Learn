@@ -1,0 +1,4 @@
+*.log
+*.pth
+.idea/
+venv/
